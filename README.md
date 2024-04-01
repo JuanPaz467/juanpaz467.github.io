@@ -13,4 +13,4 @@
 
 5.-Creacion del Copyright © 
 
-Para seguir atento a mi pagina web puedes unirte a [Mi Discord]([url](https://discord.gg/XwwgMZEyWu))
+Para seguir atento a mi pagina web puedes unirte [Mi Discord](https://discord.gg/XwwgMZEyWu)
