@@ -1,4 +1,4 @@
-# Hola Aqui dare los cambios que ire haciendo en este mi proyecto de pasatiempo
+# Hola aqui dare los cambios que ire haciendo en este mi proyecto de pasatiempo
 
 ### v0.1
 
