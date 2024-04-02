@@ -13,4 +13,9 @@
 
 5.-Creacion del Copyright © 
 
+### v1.0
+
+1.-Ipod me ayudo
+
+
 Para seguir atento a mi pagina web puedes unirte [Mi Discord](https://discord.gg/XwwgMZEyWu)
