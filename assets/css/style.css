@@ -381,3 +381,7 @@
     background-color: rgb(235, 22, 22);
     border-color: rgb(235, 22, 22);
 }
+.brand-img{
+	border-radius:50% !important;
+	
+}
