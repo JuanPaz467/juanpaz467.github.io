@@ -2,7 +2,7 @@
 Esto es solo un pasatiempo
 
 
-### v1.0 (https://juanpaz467.page.dev)
+### v1.0
 
 1.-He actualizado a una version vieja creada por [IpodCraft](https://github.com/IpodCraft) un amigo mio
 
