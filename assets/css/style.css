@@ -385,3 +385,8 @@
 	border-radius:50% !important;
 	
 }
+.twitch-frame{
+	width:620px;
+	height:378px;
+	max-width:100%;
+}
