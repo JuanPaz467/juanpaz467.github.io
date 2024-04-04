@@ -1,3 +1,21 @@
+@font-face {
+    font-family: 'Minecraft7';
+    src: url('https://ipodcraft-ic.github.io/Minecraft_Fonts/Minecraft-7.woff2') format('woff2'),
+    url('https://ipodcraft-ic.github.io/Minecraft_Fonts/Minecraft-7.woff') format('woff'),
+    url('https://ipodcraft-ic.github.io/Minecraft_Fonts/Minecraft-7.ttf') format('truetype'),
+    url('https://ipodcraft-ic.github.io/Minecraft_Fonts/Minecraft-7.eot') format('embedded-opentype');
+    font-style: normal;
+    font-weight: normal;
+  }
+  @font-face {
+    font-family: 'Minecraft10';
+    src: url('https://ipodcraft-ic.github.io/Minecraft_Fonts/Minecraft-10.woff2') format('woff2'),
+    url('https://ipodcraft-ic.github.io/Minecraft_Fonts/Minecraft-10.woff') format('woff'),
+    url('https://ipodcraft-ic.github.io/Minecraft_Fonts/Minecraft-10.ttf') format('truetype'),
+    url('https://ipodcraft-ic.github.io/Minecraft_Fonts/Minecraft-10.eot') format('embedded-opentype');
+    font-style: normal;
+    font-weight: normal;
+  }
 .logo{
     content: url('https://yt3.ggpht.com/ytc/AMLnZu_tdi9s0t6Xd45dJgIRzq8OFda7iutsjUuPTEydjg=s88-c-k-c0x00ffffff-no-rj');
 }
