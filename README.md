@@ -31,6 +31,6 @@ Para seguir atento a mi pagina web puedes unirte [Mi Discord](https://jp467.page
 
 2.-Se agregaron a los links su respectivo acortador
 
-3.-Se volvio al estilo de letra anterior, por errores en algunas paginas(mentira no me gustaba como de veia)
+3.-Se volvio al estilo de letra anterior, por errores en algunas paginas(mentira no me gustaba como se veia)
 
-### Algunos de estos cambios fueron con ayuda de [IpodCraft](https://jp467.pages.dev/?url=icgh)
+### Algunos de estos cambios fueron hechos por [IpodCraft](https://jp467.pages.dev/?url=icgh)
