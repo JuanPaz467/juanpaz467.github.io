@@ -34,3 +34,4 @@ Para seguir atento a mi pagina web puedes unirte [Mi Discord](https://jp467.page
 3.-Se volvio al estilo de letra anterior, por errores en algunas paginas(mentira no me gustaba como de veia)
 
 ### Algunos de estos cambios fueron con ayuda de [IpodCraft](https://jp467.pages.dev/?url=icgh)
+
