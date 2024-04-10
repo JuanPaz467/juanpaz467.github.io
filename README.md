@@ -37,5 +37,10 @@ Para seguir atento a mi pagina web puedes unirte [Mi Discord](https://jp467.page
 
 ## v1.3
 
-1.-Se cambio el titulo de la pagina 
+1.-Se cambio el titulo de la pagina el anterior era un simple - y ahora se implemento en todas las paginas un |
+
+psdt:Es solo un cambio muy basico pero necesario poner 
+
+**Ejemplo**
+
 ![Prueba de antes](https://juanpaz467.pages.dev/assets/imagenes/actualizacion.png)
